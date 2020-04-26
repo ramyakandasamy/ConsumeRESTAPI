@@ -1,0 +1,8 @@
+com/theprogrammerguide/dynamodb/serviceImpl/ProductServiceImpl.class
+com/theprogrammerguide/dynamodb/DynamoDbDemoApplication.class
+com/theprogrammerguide/dynamodb/DynamoDBConfiguration.class
+com/theprogrammerguide/dynamodb/models/Product.class
+com/theprogrammerguide/dynamodb/controllers/ProductController.class
+com/theprogrammerguide/dynamodb/daoImpl/ProductDAOImpl.class
+com/theprogrammerguide/dynamodb/dao/ProductDao.class
+com/theprogrammerguide/dynamodb/service/ProductService.class
